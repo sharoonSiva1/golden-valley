@@ -1,0 +1,58 @@
+{
+  "columns": [
+    {
+      "name": "Analgesics",
+      "medicines": [
+        {"name": "Paracetamol", "description": "Relieves mild to moderate pain.", "price": 5.00, "image": "images/medicines/Paracetamol.jpeg"},
+        {"name": "Ibuprofen", "description": "Relieves pain and reduces inflammation.", "price": 7.00, "image": "images/medicines/Ibuprofen.jpeg"},
+        {"name": "Aspirin", "description": "Used for pain relief and heart health.", "price": 6.00, "image": "images/medicines/aspirin.jpeg"},
+        {"name": "Acetaminophen", "description": "Treats minor aches and pains.", "price": 4.50, "image": "images/medicines/Acetaminophen.jpeg"},
+        {"name": "Naproxen", "description": "Provides longer-lasting pain relief.", "price": 8.00, "image": "images/medicines/naproxen.jpeg"},
+        {"name": "Diclofenac", "description": "Used to reduce pain, swelling, and joint stiffness.", "price": 6.50, "image": "images/medicines/Diclofenac.jpeg", "quantity_option": true}
+      ]
+    },
+    {
+      "name": "Antibiotics",
+      "medicines": [
+        {"name": "Amoxicillin", "description": "Broad-spectrum antibiotic.", "price": 12.00, "image": "images/medicines/Amoxicillin.jpeg"},
+        {"name": "Ciprofloxacin", "description": "Treats bacterial infections.", "price": 10.00, "image": "images/medicines/ciprofloxacin.jpeg"},
+        {"name": "Doxycycline", "description": "Used for bacterial and parasitic infections.", "price": 9.00, "image": "images/medicines/doxycycline.jpeg"},
+        {"name": "Erythromycin", "description": "Alternative to penicillin-based antibiotics.", "price": 11.00, "image": "images/medicines/erythromycin.jpeg"},
+        {"name": "Metronidazole", "description": "Treats bacterial and protozoal infections.", "price": 13.00, "image": "images/medicines/metronidazole.jpeg"},
+        {"name": "Clindamycin", "description": "Treats serious bacterial infections.", "price": 14.00, "image": "images/medicines/clindamycin.jpeg", "quantity_option": true}
+      ]
+    },
+    {
+      "name": "Antidepressants",
+      "medicines": [
+        {"name": "Fluoxetine", "description": "Treats depression and anxiety disorders.", "price": 15.00, "image": "images/medicines/fluoxetine.jpeg"},
+        {"name": "Sertraline", "description": "Commonly used for mood disorders.", "price": 16.00, "image": "images/medicines/sertraline.jpeg"},
+        {"name": "Citalopram", "description": "Helps with major depression.", "price": 14.50, "image": "images/medicines/citalopram.jpeg"},
+        {"name": "Escitalopram", "description": "Used for generalized anxiety disorder.", "price": 18.00, "image": "images/medicines/escitalopram.jpeg"},
+        {"name": "Amitriptyline", "description": "A tricyclic antidepressant.", "price": 10.00, "image": "images/medicines/amitriptyline.jpeg"},
+        {"name": "Bupropion", "description": "Treats depression and smoking cessation.", "price": 17.00, "image": "images/medicines/bupropion.jpeg", "quantity_option": true}
+      ]
+    },
+    {
+      "name": "Antihistamines",
+      "medicines": [
+        {"name": "Cetirizine", "description": "For allergy relief.", "price": 8.00, "image": "images/medicines/Cetirizine.jpeg"},
+        {"name": "Loratadine", "description": "Non-drowsy antihistamine.", "price": 9.00, "image": "images/medicines/loratadine.jpeg"},
+        {"name": "Diphenhydramine", "description": "For allergy and sleep aid.", "price": 7.50, "image": "images/medicines/diphenhydramine.jpeg"},
+        {"name": "Fexofenadine", "description": "Relieves hay fever symptoms.", "price": 10.00, "image": "images/medicines/fexofenadine.jpeg"},
+        {"name": "Chlorpheniramine", "description": "Relieves allergy symptoms.", "price": 6.00, "image": "images/medicines/chlorpheniramine.jpeg"}
+      ]
+    },
+    {
+      "name": "Antihypertensives",
+      "medicines": [
+        {"name": "Amlodipine", "description": "For high blood pressure.", "price": 15.00, "image": "images/medicines/amlodipine.jpeg"},
+        {"name": "Losartan", "description": "Helps manage hypertension.", "price": 14.00, "image": "images/medicines/losartan.jpeg"},
+        {"name": "Metoprolol", "description": "A beta blocker for hypertension.", "price": 13.00, "image": "images/medicines/metoprolol.jpeg"},
+        {"name": "Lisinopril", "description": "Used to treat high blood pressure.", "price": 12.00, "image": "images/medicines/lisinopril.jpeg"},
+        {"name": "Valsartan", "description": "For heart failure and hypertension.", "price": 16.00, "image": "images/medicines/valsartan.jpeg"},
+        {"name": "Diltiazem", "description": "Helps lower blood pressure.", "price": 17.00, "image": "images/medicines/diltiazem.jpeg", "quantity_option": true}
+      ]
+    }
+  ]
+}
